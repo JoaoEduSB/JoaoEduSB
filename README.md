@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoEduSB - João Eduardo
-- 👀 I’m interested in learning programming, and practing.
+- 👀 I'm interested in learning programming, and practicing through projects.
 - 🌱 I’m currently learning Hmtl, CSS, through PROA, and for the next months I'll be learning many new things (such as C#, Js, .Net and others).
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me? You can reach me on my social medias that are exposed in my profile.
